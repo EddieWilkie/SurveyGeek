@@ -1,0 +1,36 @@
+
+.addNew {
+   color: #1abc9c;
+}
+
+#surveyList {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.survey {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+#createNew {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.yesNoRadio {
+    display: flex;
+}
+
+.questionBox {
+    display: flex;
+}
+
+.qTitle {
+  margin-top: 1em;
+}
